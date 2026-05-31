@@ -1239,7 +1239,7 @@ with gr.Blocks(theme=gr.themes.Base(), css=custom_css) as demo:
     # ========================================================
     gr.HTML("""
     <div style="text-align: center; margin-top: 36px; padding-bottom: 16px; color: #64748b; font-size: 18px;">
-        Developed by: Dr. Qi ZHAO (HKU), Prof. Kaimin SHIH (HKU), Prof. Zheng Li (CAS), Mr. Junyi Wang (HKU)<br>
+        Developed by: Dr. Qi ZHAO (HKU), Dr. Wei SHEN (LUH), Prof. Kaimin SHIH (HKU), Prof. Zheng Li (CAS), Mr. Junyi Wang (HKU), Mr. Aung Thit Htun (HKU)<br>
         For inquiries or suggestions regarding this project, please feel free to contact zhaoqi22@hku.hk (Q. ZHAO) or kshih@hku.hk (K. SHIH).
     </div>
     """)
