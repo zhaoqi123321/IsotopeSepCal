@@ -2363,7 +2363,7 @@ with gr.Blocks() as demo:
     <div class="app-footer">
         <div>
             <b>Developed by:</b>
-            Dr. Qi ZHAO (HKU), Kaimin SHIH (HKU), Dr. Wei SHEN (LUH), Dr. Junqiang YANG (LZH), and Mr. Junyi Wang (HKU).
+            Dr. Qi ZHAO (HKU), Prof. Kaimin SHIH (HKU), Dr. Wei SHEN (LUH), Dr. Junqiang YANG (LZH), and Mr. Junyi Wang (HKU).
         </div>
         <div>
             For inquiries or suggestions regarding this project, please feel free to contact
